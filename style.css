@@ -43,8 +43,8 @@ body {
 .wrapper {
     background: var(--dark-cyan);
     height: 100vh;
-    /* width: 100vw; */
-    width: 1440px;
+    width: 100vw;
+    /* width: 1440px; */
     overflow: hidden;
     position: relative;
     margin: auto;
